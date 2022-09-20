@@ -39,3 +39,7 @@ world
 - [ ] 1st
 - [ ] 2nd
 - [x] 3rd
+---
+```
+a = "this is an example"
+print (a)
