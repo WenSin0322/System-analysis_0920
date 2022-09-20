@@ -40,6 +40,6 @@ world
 - [ ] 2nd
 - [x] 3rd
 ---
-```
+```python
 a = "this is an example"
 print (a)
